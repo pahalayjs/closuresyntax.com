@@ -1,4 +1,4 @@
-Fucking Closure Syntax
+Closure Syntax
 =================
 
 Because syntax is hard.
